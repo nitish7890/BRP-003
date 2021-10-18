@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class DAY4 {
+public class DAY4 {
+     public static void main(String args[]){
+         System.out.println("Hello");
+     }
 }

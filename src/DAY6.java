@@ -1,6 +1,6 @@
-public class Demo {
-    public static void main(String[] args) {
-        int[] a = new int[]{1,22,333,4444,55555,666666};
+public class DAY6 {
+    static public void main(String[] args){
+         int[] a = new int[]{1,22,333,4444,55555,666666};
         System.out.println(display(a));
     }
     private static int display(int[] a) {
